@@ -16,3 +16,4 @@ tabulate
 selenium
 tiktoken
 spacy
+langchain[docarray]
